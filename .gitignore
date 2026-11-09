@@ -1,0 +1,7 @@
+.deps/
+out/
+slurm/*.out
+__pycache__/
+*.pyc
+# HF checkpoint clone (git clone https://huggingface.co/brownvc/R3GAN-CIFAR10)
+R3GAN-CIFAR10/

@@ -19,6 +19,7 @@ import PIL.Image
 import torch
 
 import legacy
+import ref_ops  # noqa: F401 (pure-PyTorch ops, no CUDA plugin build)
 
 #----------------------------------------------------------------------------
 
